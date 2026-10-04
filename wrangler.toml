@@ -1,0 +1,11 @@
+name = "wiki-telegram-bot"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+OWNER_USERNAME = "hamtik26kk"
+
+# Создайте KV в Cloudflare (Workers & Pages → KV → Create) и вставьте его ID:
+[[kv_namespaces]]
+binding = "DB"
+id = "ВСТАВЬТЕ_ID_KV_СЮДА"
