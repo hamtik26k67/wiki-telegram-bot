@@ -8,4 +8,4 @@ OWNER_USERNAME = "hamtik26kk"
 # Создайте KV в Cloudflare (Workers & Pages → KV → Create) и вставьте его ID:
 [[kv_namespaces]]
 binding = "DB"
-id = "ВСТАВЬТЕ_ID_KV_СЮДА"
+id = "6e9cb08dd8124e3d87ec37b250a15d74"
